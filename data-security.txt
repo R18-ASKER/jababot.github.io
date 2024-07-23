@@ -1,0 +1,37 @@
+
+Data Security Statement
+
+Data Security Statement
+
+Effective Date: [Insert Date]
+
+1. Introduction
+
+At JABABOT, the security of your data is our top priority. This Data Security Statement outlines the measures we take to protect your personal information and ensure its confidentiality, integrity, and availability.
+
+2. Security Measures
+
+  •  Encryption: We use strong encryption protocols to protect data in transit and at rest, ensuring that your information is secure from unauthorized access.
+  •  Access Controls: We implement strict access controls to limit access to your data to authorized personnel only. This includes multi-factor authentication and role-based access.
+  •  Regular Audits: We conduct regular security audits and assessments to identify and mitigate potential vulnerabilities in our systems.
+  •  Secure Development Practices: Our development process includes security testing and code reviews to ensure that our app is built with security in mind.
+
+3. Data Retention
+
+We retain your personal information only for as long as necessary to fulfill the purposes outlined in our Privacy Policy or as required by law. When your data is no longer needed, we securely delete or anonymize it.
+
+4. Incident Response
+
+In the event of a data breach or security incident, we have a comprehensive incident response plan to quickly address and mitigate any potential impact. We will notify affected users and relevant authorities as required by law.
+
+5. User Responsibilities
+
+While we take extensive measures to protect your data, you also play a role in keeping your information secure. Please use strong, unique passwords for your accounts and avoid sharing your login details with others.
+
+6. Contact Us
+
+If you have any questions or concerns about our data security practices, please contact us at [contact email].
+
+https://www.example.com/data-security
+
+Feel free to adjust the content and insert the actual date and contact information as needed.
