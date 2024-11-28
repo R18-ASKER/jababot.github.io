@@ -1,0 +1,42 @@
+End User License Agreement (EULA)
+
+Last Updated: 11.28.2024
+
+This End User License Agreement “Agreement” governs the use of the software application “Application” provided by Perfect Legion, Jaba “Provider” through Atlassian Marketplace. By installing, accessing, or using the Application, you agree to the terms outlined below.
+
+1. License Grant
+The Provider grants you a non-exclusive, non-transferable, revocable license to use the Application solely in connection with your Atlassian products for its intended purposes.
+
+2. Permitted Use
+You are permitted to:
+
+Send notifications to personal and group chats via the Telegram bot as integrated with the Jira portal.
+Use the Application for your internal business purposes or personal use.
+You are prohibited from:
+
+Modifying, reverse-engineering, or attempting to extract the source code of the Application.
+Using the Application for illegal or unauthorized purposes.
+3. Support and Updates
+The Provider offers technical support for the Application as described on its Marketplace listing. Updates are released regularly to ensure compatibility and enhance functionality.
+
+4. Privacy and Data Collection
+The Application collects certain data necessary for its operation, including but not limited to:
+
+Access tokens for user authentication.
+Usernames, chat IDs, and other identifiers for analytics and Application functionality.
+The Provider does not store message histories or notifications. All collected data is used solely for the operation and improvement of the Application. Please refer to our Privacy Policy for more details.
+
+5. Limitation of Liability
+The Provider is not responsible for any losses or damages arising from the use or inability to use the Application. The Application is provided “as is” without any warranties of any kind, either express or implied.
+
+6. Termination
+This Agreement remains effective until terminated. The Provider reserves the right to revoke your license if you violate any terms of this Agreement.
+
+7. Governing Law
+This Agreement is governed by the laws of the Republic of Kazakhstan. Any disputes arising from this Agreement shall be resolved under the jurisdiction of the courts of Kazakhstan.
+
+8. Acceptance of Terms
+By installing or using the Application, you confirm that you have read, understood, and agreed to this Agreement.
+
+Contact Information
+For any questions or concerns regarding this Agreement, please contact us at perfectlegion2024@gmail.com.
